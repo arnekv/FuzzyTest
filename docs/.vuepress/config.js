@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'Netlify CMS + VuePress',
-  description: 'Netlify + VuePress',
+  title: 'Vrak',
+  description: 'Vrak',
   themeConfig: {
     docsDir: 'docs',
-    repo: 'andreliem/vuepress-netlify-cms',
+    repo: 'arnekv/vrak',
     sidebar: [
       '/',
       '/welcome',
